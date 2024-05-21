@@ -70,6 +70,15 @@ This repository uses our recommended hardhat setup, by using our [`@nomicfoundat
 
 This project also includes [a sample frontend/Dapp](./frontend), which uses [Create React App](https://github.com/facebook/create-react-app).
 
+## Starting The React Web App
+- Start the react web app:
+
+```
+cd frontend
+npm install
+npm run start
+```
+
 ## Troubleshooting
 
 - `Invalid nonce` errors: if you are seeing this error on the `npx hardhat node`
